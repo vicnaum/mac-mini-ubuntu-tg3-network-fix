@@ -28,6 +28,9 @@ Tested on:
   [2662296.554259] tg3 0000:03:00.0: tg3_stop_block timed out, ofs=4c00 enable_bit=2
   ```
 
+- Logs from tg3 like this:
+![image](https://github.com/user-attachments/assets/6301da49-51e1-4c5d-ba4b-b355bcc2dca5)
+
 ## Root Causes
 
 ### 1. IOMMU-Related Issues
